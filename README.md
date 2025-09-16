@@ -1,0 +1,2 @@
+# Marketing-Sales-Prediction-using-Linear-Regression
+This project predicts Sales from Marketing Spend using Linear Regression. It analyzes the impact of TV, Radio, and Newspaper ads on sales with Python. The model is trained on historical data, evaluated with MSE and R² Score, and gives reliable predictions. A simple, beginner-friendly project for learning machine learning and predictive analytics.
